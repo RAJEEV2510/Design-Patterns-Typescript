@@ -15,5 +15,6 @@ class Singleton {
 
 }
 
-let singleton = Singleton.getInstance();
-console.log(singleton);
+let singletonObj1 = Singleton.getInstance();
+let singletonObj2 = Singleton.getInstance();
+console.log(singletonObj1 == singletonObj2);
