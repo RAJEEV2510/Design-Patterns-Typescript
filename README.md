@@ -5,19 +5,19 @@
         3. Behavioural Design Patterns.
 # Creational Design Patterns
         
-        Prototype Pattern.
-        Singleton Pattern.
-        Abstract Factory Pattern.
-        Builder Pattern.
-        Factory Method Pattern.
+        Prototype Pattern.  (implemented with UI Button ).
+        Singleton Pattern.  (implemented with simple comparable object example).
+        Abstract Factory Pattern.  (implemented with Payment Gateway).
+        Builder Pattern.  (implemented with car example).
+        Factory Method Pattern.  (implemented with making different charts).
 
 # Structural  Design Patterns
         
-        Adapter Pattern.
-        Decorator Pattern.
-        Facade Pattern.
-        Proxy Pattern.
-        Composite Pattern.
+        Adapter Pattern. (implemented with weighting machine).
+        Decorator Pattern.(implemented with parking lot).
+        Facade Pattern.(implemented with ecommerce example).
+        Proxy Pattern. (implemeneted with lazy load of image).
+        Composite Pattern. (implemented with  file design system).
 
 # Behavioural  Design Patterns
         
