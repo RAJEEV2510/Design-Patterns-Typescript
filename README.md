@@ -21,8 +21,10 @@
 
 # Behavioural  Design Patterns
         
-        Iterator Pattern.
-        Observer Pattern.
-        Command Pattern.
-        Strategy Pattern.
-        Template Method Pattern. 
+        Iterator Pattern. (Iterate all users list )
+        Observer Pattern. (stock exchange notify the traders)
+        Command Pattern. (implement race car with commands)
+        Strategy Pattern. (implement action game)
+        Template Method Pattern.  (implement with payment)
+
+        
